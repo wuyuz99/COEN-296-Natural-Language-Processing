@@ -4,4 +4,4 @@ textSummarization.cpp is a project that summarizes the content of an input artic
 
 questionbot.py is a project that takes a question, search it on google. If the information doesn't have a simple answer, apply TextRank to the article found.
 
-Tr
+TransformerEncryption is a team project that explores encryption of words with transformer.
